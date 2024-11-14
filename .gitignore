@@ -1,0 +1,48 @@
+# Python virtual environment
+.venv/
+venv/
+ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+bocpdms/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# VS Code settings
+.vscode/
+
+# Large data files
+SuperD_Class5_keiki.csv
+*.csv
+!requirements.txt
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Logs
+*.log
+
+# Local development settings
+.env
+.env.local
+
+# Database files
+*.db
+*.sqlite3
+
+# Temporary files
+*.swp
+*.swo
+*~
