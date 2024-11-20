@@ -26,6 +26,7 @@ SuperD_Class5_keiki.csv
 *.csv
 !requirements.txt
 Videos/
+csvs/
 
 # macOS system files
 .DS_Store
